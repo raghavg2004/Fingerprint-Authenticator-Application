@@ -1,4 +1,5 @@
-#<img src="https://github.com/raghavg2004/Fingerprint_Authentication_Application/blob/master/app/src/main/res/drawable/fingerprint.png" alt="Logo" width="200" height="200"/> Fingerprint Authenticator
+# Fingerprint Authenticator
+<img src="https://github.com/raghavg2004/Fingerprint_Authentication_Application/blob/master/app/src/main/res/drawable/fingerprint.png" alt="Logo" width="150" height="150"/>
 
 ## Introduction
 **Fingerprint Authenticator** is a secure and user-friendly mobile application that allows users to authenticate their identity using their device’s fingerprint sensor. This app simplifies the login process while enhancing security by eliminating the need for traditional passwords. With a focus on usability and data protection, Fingerprint Authenticator is designed for individuals who value both security and convenience.
