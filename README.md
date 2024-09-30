@@ -1,5 +1,5 @@
 # Fingerprint Authenticator
-
+<img src="https://github.com/raghavg2004/Fingerprint_Authentication_Application/blob/master/app/src/main/res/drawable/fingerprint.png" alt="Logo" width="200" height="200"/>
 ![Logo](https://github.com/raghavg2004/Fingerprint_Authentication_Application/blob/master/app/src/main/res/drawable/fingerprint.png)
 
 ## Introduction
