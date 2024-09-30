@@ -28,7 +28,7 @@
         android:layout_marginStart="13dp"
         android:layout_marginTop="84dp"
         android:layout_marginEnd="13dp"
-        android:text="Unlock the power of secure access with Fingerprint Authenticator—your ultimate solution for protecting sensitive information and streamlining authentication processes. This app leverages advanced biometric technology to provide a fast, reliable, and secure way to access your accounts and personal data with just a touch."
+        android:text="Unlock the power of secure access with Fingerprint Authenticator - your ultimate solution for protecting sensitive information and streamlining authentication processes. This app leverages advanced biometric technology to provide a fast, reliable, and secure way to access your accounts and personal data with just a touch."
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
